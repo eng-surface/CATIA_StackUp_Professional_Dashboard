@@ -89,22 +89,23 @@
 
 ## 💳 Editions & Licensing
 
-| Feature | Trial | **Standard** | **Professional** |
-|---|---|---|---|---|
-| Price | Free 14 days | $299 · Single User | $899 · Multi-user |
-| Stack-ups | 2 | 5 | Unlimited | Unlimited |
-| Contributors / stack-up | 3 | 20 | Unlimited | Unlimited |
-| Excel export | ❌ | ✅ (no logo) | ✅ + logo | ✅ + logo |
-| Analysis charts | ❌ | ✅ | ✅ | ✅ |
-| Company logo in reports | ❌ | ❌ | ✅ | ✅ |
-| Machine-bound key | — | ✅ | ✅ | — |
-| Seats | — | 1 | 1 - 5 |
+| Feature | Trial | **Single user** | **Multi-user** |
+|---|---|---|---|
+| Price | Free 14 days | $299 one-time | $899 one-time |
+| PCs | — | 1 PC | up to 5 PCs (one key per PC) |
+| Stack-ups | 2 | Unlimited | Unlimited |
+| Contributors / stack-up | 3 | Unlimited | Unlimited |
+| Worst Case · RSS · Monte-Carlo | ✅ | ✅ | ✅ |
+| Analysis charts | ❌ | ✅ | ✅ |
+| Excel export (logo + CAD screenshots) | ❌ | ✅ | ✅ |
+| Machine-bound activation key | — | ✅ | ✅ |
 
 **How it works:**
-- Keys are cryptographically signed (HMAC-SHA256), carry the edition, expiry, customer name and **machine binding** (key works on one PC only).
+
+- Keys are cryptographically signed (HMAC-SHA256), carry the edition, expiry, customer name and **machine binding** (key works on one PC only — Multi-user: one key per PC, up to 5 PCs).
 - The vendor issues keys with the **License Key Generator** (separate tool, not distributed to customers).
 - **Online revocation** (optional, free): a public GitHub repo hosts the revoked-key list; the tool checks it at startup + every 12 h (30-day offline grace).
-- Purchase & support: **ennadisto@gmail.com**
+- Purchase & support: **support@engsurface.com**
 
 ---
 
