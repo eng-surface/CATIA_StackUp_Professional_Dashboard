@@ -132,7 +132,7 @@
 
 ## 📧 Contact & Support
 
-**Email:** ennadisto@gmail.com
+**Email:** support@engsurface.com
 
 ---
 
