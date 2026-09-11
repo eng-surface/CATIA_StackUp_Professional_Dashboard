@@ -89,7 +89,7 @@
 
 ## 💳 Editions & Licensing
 
-| Feature | Trial | **Standard** | **Professional** | **Company** |
+| Feature | Trial | **Standard** | **Professional** |
 |---|---|---|---|---|
 | Price | Free 14 days | $299 · Single User | $899 · Multi-user |
 | Stack-ups | 2 | 5 | Unlimited | Unlimited |
@@ -98,7 +98,7 @@
 | Analysis charts | ❌ | ✅ | ✅ | ✅ |
 | Company logo in reports | ❌ | ❌ | ✅ | ✅ |
 | Machine-bound key | — | ✅ | ✅ | — |
-| Seats | — | 1 | 1 | 1–250 |
+| Seats | — | 1 | 1 - 5 |
 
 **How it works:**
 - Keys are cryptographically signed (HMAC-SHA256), carry the edition, expiry, customer name and **machine binding** (key works on one PC only).
