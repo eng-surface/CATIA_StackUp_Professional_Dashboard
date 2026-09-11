@@ -91,7 +91,7 @@
 
 | Feature | Trial | **Standard** | **Professional** | **Company** |
 |---|---|---|---|---|
-| Price | Free 14 days | $300/yr · $50/mo | $500/yr · $80/mo | $1500/yr · $120/mo |
+| Price | Free 14 days | $299 · Single User | $899 · Multi-user |
 | Stack-ups | 2 | 5 | Unlimited | Unlimited |
 | Contributors / stack-up | 3 | 20 | Unlimited | Unlimited |
 | Excel export | ❌ | ✅ (no logo) | ✅ + logo | ✅ + logo |
